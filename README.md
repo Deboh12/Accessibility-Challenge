@@ -1,5 +1,5 @@
 # Peppermint-Stick
-link to deployed applicaiton: https://github.com/Deboh12/Peppermint-Stick/commit/87477364b464cde21324e3612125fbb3caf76b43
+link to deployed applicaiton: https://deboh12.github.io/Peppermint-Stick/
 
 
 Acceptance Criteria
