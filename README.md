@@ -1,9 +1,10 @@
 # Peppermint-Stick
-link to deployed applicaiton: https://deboh12.github.io/Peppermint-Stick/
+link to deployed applicaiton: [https://deboh12.github.io/Peppermint-Stick/](https://deboh12.github.io/Peppermint-Stick/)
 
 
 Acceptance Criteria
-GIVEN a webpage meets accessibility standards
+GIVEN a webpage meets ac
+cessibility standards
 WHEN I view the source code
 THEN I find semantic HTML elements
 WHEN I view the structure of the HTML elements
