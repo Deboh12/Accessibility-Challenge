@@ -1,20 +1,9 @@
-# Peppermint-Stick
-link to deployed applicaiton: https://deboh12.github.io/Peppermint-Stick/
+# Accessibility-Challenge
 
+## Link to Deployed Application
 
-Acceptance Criteria
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+## Description
+This initiative centers on improving the accessibility standards and performance of a marketing agency's website. The key goal is to refine the codebase by integrating semantic HTML elements, ensuring content clarity for both users and assistive technologies. Emphasis is also placed on maintaining a logical structure independent of styling, promoting adaptability and scalability. This strategic approach aligns with current accessibility standards while preparing the website for future developments in web development practices.
 
-![Alt text](image-1.png)
-
-
+## Screenshot
+![Alt text](image-2.png)
